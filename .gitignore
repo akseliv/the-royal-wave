@@ -3,3 +3,5 @@ lib/impact/
 lib/weltmeister/config.js
 lib/weltmeister/
 tools/
+build/
+game.min.js
